@@ -1,2 +1,2 @@
 # chordify
-Create chord diagrams using globalmigration.info template/interface
+Create dynamic chord diagrams using globalmigration.info template/interface
